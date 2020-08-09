@@ -1,0 +1,11 @@
+-- Multiple inheritance gets messy;
+-- languages such as Java and C#
+-- don't actually support it.
+-- Multiple inheritance also tends
+-- to lead to deep, complicated
+-- class hierachies.
+-- These complex hierachies make 
+-- multiple inheritance hard to debug.
+-- The rest of this book will use single
+-- inheritance, avoiding
+-- the intricacies of multiple inheritance.

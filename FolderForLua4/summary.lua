@@ -1,0 +1,10 @@
+-- In this chapter, you learned
+-- how to use tables.
+-- Tables are the only data structure
+-- available in Lua; they are Lua's
+-- most powerful feature. We 
+-- looked how to implement a fully
+-- working object system 
+-- using tables. This kind of
+-- extension to the language itself is what
+-- makes Lua so powerful.
